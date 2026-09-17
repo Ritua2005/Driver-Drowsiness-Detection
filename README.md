@@ -1,4 +1,4 @@
-# 🚗 Driver Drowsiness Detection System
+#  Driver Drowsiness Detection System
 
 A computer-vision-based system designed to detect driver drowsiness using a webcam.
 
